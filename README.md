@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+👯 I’m always looking to contribute to new open source projects. If you know of any projects that need help, please let me know. I will be happy to help if
+the project aligns with my values.
 <!--
 **peakvalleytech/peakvalleytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
